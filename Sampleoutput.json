@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 47,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Gabrielle Fonrouge",
+      "title": "More Americans are financing groceries with buy now, pay later loans — and more are paying those bills late, survey says - CNBC",
+      "description": "Consumers are using buy now, pay later plans to pay for essentials such as groceries, as concerns around the economy grow.",
+      "url": "https://www.cnbc.com/2025/04/26/americans-groceries-buy-now-pay-later-loans.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108131050-1744402361562-gettyimages-2209110946-AFP_423D3NP.jpeg?v=1745602756&w=1920&h=1080",
+      "publishedAt": "2025-04-26T11:00:02Z",
+      "content": "A growing number of Americans are using buy now, pay later loans to buy groceries, and more people are paying those bills late, according to new Lending Tree data released Friday. \r\nThe figures are t… [+3376 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Katherine Tangalakis-Lippert, Grace Eliza Goodwin, Lakshmi Varanasi",
+      "title": "The worst is yet to come: Trump's tariffs could mean even higher prices and empty shelves within weeks - Business Insider",
+      "description": "Supply chain scholars and shipping industry insiders say they're expecting higher prices, barren shelves, and job losses if trade deals are not made.",
+      "url": "https://www.businessinsider.com/trump-tariffs-increase-prices-empty-shelves-timeline-supply-chain-holidays-2025-4",
+      "urlToImage": "https://i.insider.com/680bfaeda466d2b74ab44032?width=1200&format=jpeg",
+      "publishedAt": "2025-04-26T09:56:00Z",
+      "content": "President Donald Trump's tariffs are already wreaking havoc on the supply chain, and several experts believe it could get worse.\r\nBusiness Insider spoke with nine supply chain researchers, shipping i… [+10433 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Rolling Stone" },
+      "author": "Charisma Madarang",
+      "title": "Trump Admin Scraps Plan to Limit Salmonella in Poultry - Rolling Stone",
+      "description": "The Trump admin is rolling back a proposal that would have required poultry companies to limit salmonella bacteria to prevent food poisoning.",
+      "url": "http://www.rollingstone.com/politics/politics-news/usda-salmonella-poultry-withdraw-biden-plan-1235325722/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/04/usda-salmonella.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2025-04-26T02:58:13Z",
+      "content": "The Trump administration is rolling back a Biden-era proposal that would have required poultry companies to limit salmonella bacteria in their products to prevent food poisoning.\r\nAfter receiving wha… [+1885 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Financial Times" },
+      "author": "Thomas Hale, Wang Xueqiao, Joe Leahy",
+      "title": "Boeing’s return flight highlights America Inc’s exposure to China - Financial Times",
+      "description": "Aircraft sent back to US illustrate how trade war has disrupted goods flows between world’s two biggest economies",
+      "url": "https://www.ft.com/content/6df594e8-92c7-4e11-a796-43e67dc7debc",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2c6e07e6-f56f-4869-8833-8f79b241cf71.jpg?source=next-barrier-page",
+      "publishedAt": "2025-04-26T02:01:01Z",
+      "content": "Markets Insights\r\nAccess expert analysis on global markets and economic trends.\r\nEconomist Perspectives\r\nInsights from leading economists and market strategists including Katie Martin and John Plende… [+276 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Rachel Metz, Edward Ludlow, Katie Roof",
+      "title": "Elon Musk’s XAI Holdings Is in Discussions to Raise $20 Billion - Bloomberg.com",
+      "description": "Elon Musk’s XAI Holdings is in talks with investors to raise roughly $20 billion in funding for his newly combined artificial intelligence startup and social media business, according to people familiar with the matter.",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-26/elon-musk-s-xai-holdings-is-in-discussions-to-raise-20-billion",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_12rM5_7RwQ/v0/1200x800.jpg",
+      "publishedAt": "2025-04-26T01:34:27Z",
+      "content": "Elon Musks XAI Holdings is in talks with investors to raise roughly $20 billion in funding for his newly combined artificial intelligence startup and social media business, according to people famili… [+385 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tampa Bay Times" },
+      "author": "Emily Wunderlich",
+      "title": "Bomb threat prompts closure of St. Pete-Clearwater airport, sheriff says - Tampa Bay Times",
+      "description": "An Allegiant plane was evacuated after a flight attendant found a threat on a bathroom door, according to Pinellas County Sheriff Bob Gualtieri.",
+      "url": "https://www.tampabay.com/news/breaking-news/2025/04/25/st-petersburg-clearwater-international-airport-closed-today/",
+      "urlToImage": "https://www.tampabay.com/resizer/v2/23UNBDMOC5BW5EBVMYSJ3MSVHY.png?auth=77d4ac8406c2e24135ded55cf6214c232c53983e54fe53c28c5bb2fe7a7d6f2a&height=675&width=1200&smart=true",
+      "publishedAt": "2025-04-26T01:30:00Z",
+      "content": "St. Petersburg-Clearwater International Airport was closed for several hours Friday afternoon while law enforcement officials investigated a bomb threat, according to Pinellas County Sheriff Bob Gual… [+1038 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": "Biz Carson",
+      "title": "Ken Griffin Criticizes Trump Tariffs: ‘These Jobs Are Not Coming Back’ - Bloomberg.com",
+      "description": "Citadel founder Ken Griffin extended his criticism of the Trump administration’s trade policy, saying that tariffs won’t bring back American manufacturing jobs the way that the president anticipates and the country should play to its strengths instead.",
+      "url": "https://www.bloomberg.com/news/articles/2025-04-25/ken-griffin-says-trump-tariffs-won-t-bring-back-manufacturing-jobs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iSwyjI2O5RmA/v1/1200x800.jpg",
+      "publishedAt": "2025-04-26T01:00:00Z",
+      "content": "Supply Lines is a daily newsletter that tracks global trade. Sign up here.\r\nCitadel founder Ken Griffin extended his criticism of the Trump administrations trade policy, saying that tariffs wont brin… [+126 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Treasury.gov" },
+      "author": null,
+      "title": "Readout from Secretary of the Treasury Scott Bessent’s Meeting with Finance Minister Katsunobu Kato of Japan - U.S. Department of the Treasury (.gov)",
+      "description": "WASHINGTON – Yesterday, Secretary of the Treasury Scott K.H. Bessent met with Finance Minister Katsunobu Kato of Japan for their first in-person bilateral meeting.During their discussions, the Secretary and Minister held productive discussions across a broad …",
+      "url": "https://home.treasury.gov/news/press-releases/sb0106",
+      "urlToImage": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+      "publishedAt": "2025-04-25T23:51:54Z",
+      "content": "WASHINGTON Yesterday, Secretary of the Treasury Scott K.H. Bessent met with Finance Minister Katsunobu Kato of Japan for their first in-person bilateral meeting.\r\nDuring their discussions, the Secret… [+375 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Abha Bhattarai, Scott Clement, Emily Guskin",
+      "title": "Most Americans disapprove of Trump on tariffs, Post-ABC-Ipsos poll finds - The Washington Post",
+      "description": "Most Americans say they disapprove of Trump’s tariff policies and worry about inflation, a new Post-ABC-Ipsos poll finds.",
+      "url": "https://www.washingtonpost.com/business/2025/04/25/trump-tariffs-poll-approval/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HNV3SXTQW3BLM334EYFC4Y4WPQ.jpg&w=1440",
+      "publishedAt": "2025-04-25T23:00:00Z",
+      "content": "Nearly 2 out of 3 Americans disapprove of President Donald Trumps handling of tariffs, a rebuke of the administrations flagship economic policy, according to a Washington Post-ABC News-Ipsos national… [+4544 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Aimee Picchi",
+      "title": "DOGE's $160 billion in savings have cost $135 billion, analysis finds - AOL.com",
+      "description": "The push by Elon Musk's Department of Government Efficiency to slash federal funding will cost taxpayers money, nonpartisan group finds. Here's why.",
+      "url": "https://www.cbsnews.com/news/doge-cuts-cost-135-billion-analysis-elon-musk-department-of-government-efficiency/?ftag=YHF4eb9d17",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0jhzbJ2o5OXjwgcalK6SQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_cbs_news_articles_189/26bceaac01de6b87e53b937427f439e5",
+      "publishedAt": "2025-04-25T22:56:07Z",
+      "content": "Elon Musk's Department of Government Efficiency, or DOGE, says it has saved $160 billion through its push to root out wasteful or fraudulent government spending. But that effort may also have come at… [+4919 chars]"
+    }
+  ]
+}
